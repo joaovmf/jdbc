@@ -1,9 +1,0 @@
-package db;
-
-public class DB {
-	
-	private static Properties loadProperties() {
-		
-	}
-
-}
